@@ -1,75 +1,100 @@
 # Projects
 
-rivermont.github.io
+### rivermont.github.io
 Personal website.
 
-osm-links
+
+### osm-links
 List of useful resources relating to OpenStreetMap.
 
-markov-html
+
+### markov-html
 Generate HTML pages from Markov chains.
 
-docs
+
+### docs
 Various tutorials and documentation.
 
-spidy
+
+### spidy
 The simple, easy to use command line web crawler.
 
-dotfiles
--.. --- - ..-. .. .-.. . ...
 
-Archi3
-Forked from erikdubois/Archi3
+### dotfiles
+
+
+### Archi3
+Forked from erikdubois/Archi3  
 Automated script to install i3 and all its programs on Arch Linux
 
-processing
+
+### processing
 Workspace for messing with Processing scripts.
 
-turing
 
-cpp-testing
+### turing
 
-factor-values
+
+### cpp-testing
+
+
+### factor-values
 A simple script I made that calculates the ratio of every number to the amount of factors it has. Sounds pretty boring, doesn't it?
 
-music-tiler
+
+### music-tiler
 Generate image from all album artwork in a folder.
 
-cameraApp
+
+### cameraApp
 Manual Camera app for Android
 
-instagram-crawler
 
-hypergan_html
+### instagram-crawler
+
+
+### hypergan_html
 Generating HTML pages with HyperGAN.
 
-snippets
+
+### snippets
 Short bits of code that do simple tasks.
 
-article-generator
+
+### article-generator
 Create Onion-worthy articles from markov chains.
 
-project-euler
+
+### project-euler
 My personal Project Euler solutions.
 
-gists
+
+### gists
 A list of my Gist snippets.
 
-orka
+
+### orka
 Discord bot.
 
-useful-utils
+
+### useful-utils
 A collection of resources, tools, libraries, etc. that I have found useful and would like to share.
 
-logs-parser
+
+### logs-parser
 Python 3 parser for Apache2 logs.
 
-campaign1
 
-download-worlds
+### campaign1
 
-python-adventure
 
-instagram-graph
+### download-worlds
 
-hashcat-rules
+
+### python-adventure
+
+
+### instagram-graph
+
+
+### hashcat-rules
